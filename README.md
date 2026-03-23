@@ -28,10 +28,10 @@ Inflation is influenced by various economic factors such as exchange rates 💱,
 ## Results 📊
 The numerical experiments indicate that the proposed approach outperforms traditional time series and machine learning models, offering superior accuracy and reliability in forecasting Canadian inflation. This approach provides valuable insights for policymakers 🏛️.
 
-![Forecast Results: Actual vs Predicted](images/inflation/ddwfc_dnnx_h1.png)  
-![Model Comparison](images/inflation/ddwfc_dnnx_h2.png)  
-![Forecast Horizon 3](images/inflation/ddwfc_dnnx_h3.png)  
-![Forecast Horizon 4](images/inflation/ddwfc_dnnx_h4.png)  
+![Forecast Results: Actual vs Predicted](inflation/images/ddwfc_dnnx_h1.png)  
+![Model Comparison](inflation/images/ddwfc_dnnx_h2.png)  
+![Forecast Horizon 3](inflation/images/ddwfc_dnnx_h3.png)  
+![Forecast Horizon 4](inflation/images/ddwfc_dnnx_h4.png)  
 
 *Figure 2: Forecasting Results – Actual vs Predicted Inflation across Horizons*
 
