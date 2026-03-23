@@ -1,4 +1,4 @@
-# Optimizing Canada's Inflation 📈💡
+# Optimizing Canada's Inflation: A Novel Approach
 
 ## Overview
 Inflation, the rise in prices over time, plays a crucial role in determining a nation’s economic stability and impacts the cost of living 💸. This study aims to forecast Canada’s inflation using a **novel data-driven forecast combination approach**, addressing gaps in Canadian inflation research.
