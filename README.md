@@ -20,7 +20,7 @@ Inflation is influenced by various economic factors such as exchange rates 💱,
 ---
 
 ## Architecture
-![Data-driven Forecast Combination Pipeline](images/inflation/Inflation_Flowchart.jpg)  
+![Data-driven Forecast Combination Pipeline](inflation/images/Inflation_Flowchart.jpg)  
 *Figure 1: Data-driven Forecast Combination Pipeline*
 
 ---
