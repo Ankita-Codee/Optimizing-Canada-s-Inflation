@@ -20,7 +20,9 @@ Inflation is influenced by various economic factors such as exchange rates 💱,
 ---
 
 ## Architecture
-![Data-driven Forecast Combination Pipeline](inflation/images/Inflation_Flowchart.jpg)  
+<p align="center">
+  <img src="inflation/images/Inflation_Flowchart.jpg" width="300px" alt="Data-driven Forecast Combination Pipeline">
+</p>
 *Figure 1: Data-driven Forecast Combination Pipeline*
 
 ---
@@ -28,10 +30,16 @@ Inflation is influenced by various economic factors such as exchange rates 💱,
 ## Results 📊
 The numerical experiments indicate that the proposed approach outperforms traditional time series and machine learning models, offering superior accuracy and reliability in forecasting Canadian inflation. This approach provides valuable insights for policymakers 🏛️.
 
-![Forecast Results: Actual vs Predicted](inflation/images/ddwfc_dnnx_h1.png)  
-![Model Comparison](inflation/images/ddwfc_dnnx_h2.png)  
-![Forecast Horizon 3](inflation/images/ddwfc_dnnx_h3.png)  
-![Forecast Horizon 4](inflation/images/ddwfc_dnnx_h4.png)  
+<table>
+<tr>
+<td><img src="inflation/images/ddwfc_dnnx_h1.png" width="250px" alt="Forecast Horizon 1"></td>
+<td><img src="inflation/images/ddwfc_dnnx_h2.png" width="250px" alt="Forecast Horizon 2"></td>
+</tr>
+<tr>
+<td><img src="inflation/images/ddwfc_dnnx_h3.png" width="250px" alt="Forecast Horizon 3"></td>
+<td><img src="inflation/images/ddwfc_dnnx_h4.png" width="250px" alt="Forecast Horizon 4"></td>
+</tr>
+</table>
 
 *Figure 2: Forecasting Results – Actual vs Predicted Inflation across Horizons*
 
